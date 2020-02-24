@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string-array name="sehirler">
+        <item>Konumum</item>
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>Bursa</item>
+        <item>Edirne</item>
+        <item>Kayseri</item>
+        <item>Malatya</item>
+        <item>Konya</item>
+        <item>Eskişehir</item>
+        <item>Antalya</item>
+        <item>Sivas</item>
+        <item>Erzurum</item>
+        <item>Gaziantep</item>
+        <item>İzmir</item>
+        <item>Adana</item>
+        <item>Erzincan</item>
+        <item>Gümüşhane</item>
+        <item>Giresun</item>
+        <item>Kars</item>
+        <item>Tokyo</item>
+        <item>Miami</item>
+        <item>Paris</item>
+        <item>Madrid</item>
+        <item>Barselona</item>
+        <item>Singapur</item>
+        <item>Berlin</item>
+    </string-array>
+</resources>
